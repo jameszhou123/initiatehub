@@ -1,3 +1,19 @@
-/project.mobirise
+# Operating System Files
+.DS_Store
+Thumbs.db
 
-*.mobirise
+# Editor Files
+.vscode/
+.idea/
+*.sublime-*
+
+# Node modules (if ever needed in future)
+node_modules/
+
+# Build artifacts (if ever needed in future)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
